@@ -33,7 +33,7 @@ ps: This file is a work in progress, which means that it may contain incomplete 
 
 Best,
 Devarshan Patel 
-[**linkedin**] (https://www.linkedin.com/in/devarshan/)
+[**linkedin**](https://www.linkedin.com/in/devarshan/)
 devarshanpatel+git@gmail.com
 
 <a href="https://app.daily.dev/devarshan"><img src="https://api.daily.dev/devcards/c9146cd8b5cb4b33844561124981fd8b.png?r=bkx" width="400" alt="Devarshan patel's Dev Card"/></a>
