@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+\\
 - ⚡ Fun fact: ...
 -->
 Welcome to my GitHub page! This page provides information and resources related to my software projects and other contributions. Please feel free to browse and get in touch if you have any questions or feedback.
@@ -32,7 +32,7 @@ Thank you for visiting my page and for taking an interest in my work. I hope you
 ps: This file is a work in progress, which means that it may contain incomplete information or instructions. I will continue to update and refine it over time. If you have any feedback or suggestions for improving it, please leave me a comment or create an issue. Thank you for your patience and understanding.
 
 Best,
-Devarshan Patel
+Devarshan Patel (**linkedin** [https://www.linkedin.com/in/devarshan/] )
 devarshanpatel+git@gmail.com
 
 <a href="https://app.daily.dev/devarshan"><img src="https://api.daily.dev/devcards/c9146cd8b5cb4b33844561124981fd8b.png?r=bkx" width="400" alt="Devarshan patel's Dev Card"/></a>
