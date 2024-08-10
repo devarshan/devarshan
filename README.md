@@ -37,5 +37,5 @@ Devarshan Patel
 [**linkedin**](https://www.linkedin.com/in/devarshan/)
 
 devarshanpatel+git@gmail.com
+<a href="https://app.daily.dev/devarshan"><img src="https://api.daily.dev/devcards/v2/LcYTvoVxcu0F5BXNxvRzG.png?type=default&r=iwj" width="356" alt="Devarshan patel's Dev Card"/></a>
 
-<a href="https://app.daily.dev/devarshan"><img src="https://api.daily.dev/devcards/c9146cd8b5cb4b33844561124981fd8b.png?r=bkx" width="400" alt="Devarshan patel's Dev Card"/></a>
